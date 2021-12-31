@@ -10,5 +10,8 @@
         "avdName": "Pixel4"
       }
     }
+  },
+  "artifacts": {
+    "rootDir": "./e2e/artifacts"
   }
 }
